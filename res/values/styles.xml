@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="Theme.Dialog.NoTitleBar" parent="@android:style/Theme.Dialog">
+		<item name="android:windowNoTitle">true</item>
+	</style>
+<!-- 
+	<style name="Widget.CompoundButton.RadioButton.Loading" parent="@android:style/Widget.CompoundButton.RadioButton">
+		<item name="android:button">@android:drawable/spinner_background</item>
+	</style>
+	 -->
+</resources>
